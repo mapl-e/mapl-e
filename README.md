@@ -1,10 +1,12 @@
-- Hallow!, I’m @TomHasSmile AKA: Tommars
-- I’m interested in python, js and html :P
-- If u want me to help u contact me via twitter!
-- Social Links:
-- Twitter: https://twitter.com/tom_here_is
-- Discord: Tommars#6851
+### The name Tommars was because I made a word that didn't exist... "Yummars" 😳
 
-<!---
-Bye Bye :)))))
---->
+
+## Im a good damn procastinator
+
+- 🐍 I program and im currently working in a bot named "Nacoly"
+- 💡 Im learning pretty much all the other basic programming languages lmao
+- 🥓 Where can u contact me: Tommars#6851
+
+
+
+I LOV U HAVE A GREAT DAY :) ♥
