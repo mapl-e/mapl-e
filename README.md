@@ -5,7 +5,7 @@
 
 - 🐍 I program and im currently working in a bot named "Nacoly"
 - 💡 Im learning pretty much all the other basic programming languages lmao
-- 🥓 Where can u contact me: Tommars#6851
+- 🥓 Where can u contact me: Maple#6867
 
 
 
