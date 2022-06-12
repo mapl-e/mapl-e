@@ -1,11 +1,11 @@
-### The name Tommars was because I made a word that didn't exist... "Yummars" 😳
-
+### Maple is hot
 
 ## Im a good damn procastinator
 
-- 🐍 I program and im currently working in a bot named "Nacoly"
+- 🐍 I program in Python
 - 💡 Im learning pretty much all the other basic programming languages lmao
-- 🥓 Where can u contact me: Maple#6867
+- 🥓 Where can u contact me?
+- Here: Maple#6867 (Discord) 🦜
 
 
 
