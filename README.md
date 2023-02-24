@@ -26,9 +26,17 @@ Im a guy, that knows how to code and enjoys it.
  
  Well I will tell u from a scale 1-10 how good am I in a programming language.
 - [Python(6/10)](https://www.python.org/)
-- [Lua (4/10)](https://www.lua.org/)
+- [Lua (4/10)](https://www.lua.org/) !! I DO NOT USE LUA FOR CRAPBLOX !!
 - [JS (2/10](https://www.javascript.com/)
 - [HTML5 (2/10)](https://html5.org/)
+
+
+# Projects rn
+Python: None at all lol, i have a discord bot that i made and i may share it later
+Lua: Doing an idle clicker game
+JS: Learning more and more lol
+HTML5: Same thing again
+
 
 
 
