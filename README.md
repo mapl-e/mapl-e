@@ -1,24 +1,16 @@
 # I use Arch btw.
 (Actually Manjaro)
 
-██████████████████  ████████   thomas@toaster
-██████████████████  ████████   --------------
-██████████████████  ████████   OS: Manjaro Linux x86_64
-██████████████████  ████████   Host: Blade 15 Base Model (Early 2020) - RZ09-0328 5.04
-████████            ████████   Kernel: 6.1.11-1-MANJARO
-████████  ████████  ████████   Uptime: 1 min
-████████  ████████  ████████   Packages: 1261 (pacman), 10 (snap)
-████████  ████████  ████████   Shell: bash 5.1.16
-████████  ████████  ████████   Resolution: 1920x1080
-████████  ████████  ████████   WM: i3
-████████  ████████  ████████   Theme: Matcha-dark-azul [GTK2], AdwaitaDark [GTK3]
-████████  ████████  ████████   Icons: ePapirus [GTK2], ePapirus-Dark [GTK3]
-████████  ████████  ████████   Terminal: alacritty
-████████  ████████  ████████   Terminal Font: black: '0x3B4252'
-                               CPU: Intel i7-10750H (12) @ 5.000GHz
-                               GPU: NVIDIA GeForce RTX 2060 Mobile
-                               GPU: Intel CometLake-H GT2 [UHD Graphics]
-                               Memory: 1618MiB / 15856MiB
+
+ ________________________________________ 
+( The best cure for insomnia is to get a )
+( lot of sleep. -W.C. Fields             )
+ ---------------------------------------- 
+        o   ^__^
+         o  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
                                
                               
 # Who am I?
